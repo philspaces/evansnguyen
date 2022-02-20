@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Daily Dev Card
+<a href="https://app.daily.dev/philongn"><img src="https://github.com/evansnguyen/evansnguyen/blob/main/devcard.svg" width="400" alt="Long Phi Nguyễn's Dev Card"/></a>
 <!--
 **evansnguyen/evansnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
